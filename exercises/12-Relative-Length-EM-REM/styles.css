@@ -1,8 +1,12 @@
 #my-first-div {
-	font-size: 15px;
+	font-size: 0.8em;
 }
 #the-second-one {
-	font-size: 25px;
+	font-size: 0.8em;
+}
+
+h3 {
+	font-size: 0.8em;
 }
 
 /* YOUR CODE BELOW THIS LINE */

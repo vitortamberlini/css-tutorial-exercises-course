@@ -1,7 +1,16 @@
 .orange-btn {
-	/*your code here*/
+	padding: 10px;
+	border-radius: 4px;
+	background-color: rgb(255, 0, 0);
+	color: azure;
+	text-decoration: none;
+	border: 1px solid darkslategray;
 }
 
 .orange-btn:hover {
-	/*YOUR CODE HERE FOR THE HOVER STATE*/
+	background-color: firebrick;
+}
+
+body {
+	margin: 30px;
 }
